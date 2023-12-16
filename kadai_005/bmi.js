@@ -9,5 +9,6 @@ console.log(weight);
 console.log(hight);
 
 let bmi;
-console.log(weight/(hight*hight));
+bmi=weight/(hight*hight);
+console.log(bmi);
 
